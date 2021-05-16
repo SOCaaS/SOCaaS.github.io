@@ -1,6 +1,6 @@
 
 TITLE: 
-Marble - Fully Responsive Free HTML5 template
+SOCaaS - Fully Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
