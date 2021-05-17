@@ -709,7 +709,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .fh5co-counter .fh5co-text h3.border-bottom:after {
   content: "";
-  width: 50px;
+  width: 20px;
 }
 
 .fh5co-social {
@@ -810,7 +810,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .fh5co-feature .fh5co-text h3 {
   font-weight: 500;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   color: rgba(0, 0, 0, 0.8);
   font-size: 14px;
   letter-spacing: .2em;
