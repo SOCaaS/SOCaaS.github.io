@@ -798,12 +798,12 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   display: table-cell;
   vertical-align: middle;
   color: #228896;
-  font-size: 40px;
+  font-size: 60px;
   height: 180px;
 }
 @media screen and (max-width: 1200px) {
   .fh5co-feature .fh5co-icon i {
-    font-size: 40px;
+    font-size: 60px;
   }
 }
 .fh5co-feature .fh5co-text {
@@ -827,11 +827,11 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
   color: #228896;
-  font-size: 40px;
+  font-size: 60px;
 }
 @media screen and (max-width: 1200px) {
   .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
-    font-size: 28px;
+    font-size: 38px;
   }
 }
 
