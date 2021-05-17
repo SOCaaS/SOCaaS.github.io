@@ -1789,6 +1789,26 @@
   content: "\eb1a";
 }
 
-.img-project-leader{
+.img-president{
+  content: url("../images/gM/Sam.png");
+}
+
+.img-vice-president{
+  content: url("../images/gM/Petes.png");
+}
+
+.img-backend-devops{
+  content: url("../images/gM/Ivan.png");
+}
+
+.img-software-engineer{
+  content: url("../images/gM/Georgius.png");
+}
+
+.img-frontend-1{
   content: url("../images/gM/Dumac.png");
+}
+
+.img-frontend-2{
+  content: url("../images/gM/Navier.png");
 }

@@ -271,13 +271,13 @@ figure figcaption {
   position: relative;
   width: 93%;
   margin: 0 auto;
-  padding: 4em 0;
+  padding: 6em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
   #fh5co-main .fh5co-narrow-content {
     width: 100%;
-    padding: 4em 1em;
+    padding: 6em 2em;
   }
 }
 
@@ -771,15 +771,15 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   text-align: left;
   width: 100%;
   float: left;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   position: relative;
 }
 .fh5co-feature .fh5co-icon {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100px;
-  height: 100px;
+  width: 180px;
+  height: 180px;
   display: table;
   text-align: center;
   background: rgba(0, 0, 0, 0.05);
@@ -793,7 +793,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   vertical-align: middle;
   color: #228896;
   font-size: 40px;
-  height: 100px;
+  height: 180px;
 }
 @media screen and (max-width: 1200px) {
   .fh5co-feature .fh5co-icon i {
@@ -801,7 +801,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   }
 }
 .fh5co-feature .fh5co-text {
-  padding-left: 120px;
+  padding-left: 200px;
   width: 100%;
 }
 .fh5co-feature .fh5co-text h2, .fh5co-feature .fh5co-text h3 {
@@ -810,14 +810,14 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .fh5co-feature .fh5co-text h3 {
   font-weight: 500;
-  margin-bottom: 20px;
+  margin-bottom: 60px;
   color: rgba(0, 0, 0, 0.8);
   font-size: 14px;
   letter-spacing: .2em;
   text-transform: uppercase;
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-text {
-  margin-top: 30px;
+  margin-top: 50px;
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
   color: #228896;
@@ -830,8 +830,8 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .fh5co-heading {
-  font-size: 18px;
-  margin-bottom: 2em;
+  font-size: 24px;
+  margin-bottom: 4em;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -844,7 +844,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
   }
 }
 
