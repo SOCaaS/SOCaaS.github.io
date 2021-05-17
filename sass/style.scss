@@ -841,6 +841,17 @@ body {
 				font-size: 40px;
 			}
 		}
+
+		image {
+			display: table-cell;
+			vertical-align: middle;
+			color: $brand-primary;
+			font-size: 40px;
+			height: 100px;
+			@media screen and (max-width: $screen-lg) {
+				font-size: 40px;
+			}
+		}
 	}
 	.fh5co-text {
 		padding-left: 120px;
@@ -866,6 +877,11 @@ body {
 			i {
 				color: $brand-primary;
 				font-size: 40px;
+				@media screen and (max-width: $screen-lg) {
+					font-size: 28px;
+				}
+			}
+			image {
 				@media screen and (max-width: $screen-lg) {
 					font-size: 28px;
 				}
