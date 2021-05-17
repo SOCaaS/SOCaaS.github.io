@@ -788,6 +788,12 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+
+.fh5co-feature .fh5co-icon img {
+  width: 180px;
+  height: 180px;
+}
+
 .fh5co-feature .fh5co-icon i {
   display: table-cell;
   vertical-align: middle;
