@@ -121,7 +121,6 @@ figure figcaption {
   text-align: center;
   font-family: "Roboto", Arial, sans-serif;
   font-weight: 700;
-  margin-bottom: 2em;
   text-transform: uppercase;
   font-size: 38px;
 }
@@ -137,6 +136,19 @@ figure figcaption {
   font-weight: 300;
   color: rgba(0, 0, 0, 0.5);
 }
+
+#fh5co-aside #fh5co-subtext {
+  text-align: center;
+  font-family: "Roboto", Arial, sans-serif;
+  margin-bottom: 2em;
+  font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+  #fh5co-aside #fh5co-subtext {
+    margin-bottom: 1em;
+  }
+}
+
 #fh5co-aside #fh5co-main-menu ul {
   text-align: center;
   margin: 0;
