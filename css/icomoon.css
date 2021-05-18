@@ -1790,29 +1790,29 @@
 }
 
 .img-president{
-  content: url("../images/gM/Sam.png");
+  content: url("../images/about/Sam.png");
 }
 
 .img-vice-president{
-  content: url("../images/gM/Petes.png");
+  content: url("../images/about/Petes.png");
 }
 
 .img-backend-devops{
-  content: url("../images/gM/Ivan.png");
+  content: url("../images/about/Ivan.png");
 }
 
 .img-software-engineer{
-  content: url("../images/gM/Georgius.png");
+  content: url("../images/about/Georgius.png");
 }
 
 .img-frontend-1{
-  content: url("../images/gM/Navier.png");
+  content: url("../images/about/Navier.png");
 }
 
 .img-frontend-2{
-  content: url("../images/gM/Dumac.png");
+  content: url("../images/about/Dumac.png");
 }
 
 .img-supervisor {
-  content: url("../images/gM/Ngoc.png");
+  content: url("../images/about/Ngoc.png");
 }
