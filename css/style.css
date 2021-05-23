@@ -37,8 +37,10 @@ a:hover, a:active, a:focus {
   text-decoration: none !important;
 }
 
-p {
+p, li{
   margin-bottom: 1.5em;
+  font-weight: 500;
+  font-size: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
