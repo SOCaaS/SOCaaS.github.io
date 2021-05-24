@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 p, li{
   margin-bottom: 1.5em;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -325,7 +325,7 @@ figure figcaption {
   left: 0;
   right: 0;
   content: '';
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.6);
 }
 #fh5co-hero .flexslider .slides li {
   background-repeat: no-repeat;
@@ -385,9 +385,9 @@ figure figcaption {
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
   margin-bottom: 20px;
-  font-size: 45px;
-  line-height: 1.3;
-  font-weight: 100;
+  font-size: 60px;
+  line-height: 1.8;
+  font-weight: 300;
   font-family: "Roboto", Arial, sans-serif;
 }
 @media screen and (max-width: 768px) {
@@ -396,10 +396,10 @@ figure figcaption {
   }
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
-  font-size: 18px;
+  font-size: 28px;
   line-height: 1.5;
   margin-bottom: 30px;
-  font-weight: 300;
+  font-weight: 250;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 a {
   color: rgba(34, 136, 150, 0.8);
